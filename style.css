@@ -1,0 +1,11 @@
+.cabecalho{
+    background-color: rgb(255, 255, 255);
+}
+.item-lista {
+    font-size: 30px;
+}
+.nome{
+    font-size: 40px;
+    text-align: center;
+    background-color:darkgreen ;
+}
